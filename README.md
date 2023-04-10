@@ -1,6 +1,7 @@
-# Lideres_Ramo_Canguaretama
+# Lideres Ramo Canguaretama
 Site com perfis dos líderes do Ramo Canguaretama
 
 ## Botões
-Cada botão representa uma ação, mostrando a doto de cada organização
+Cada botão, ao ser clicado, mostra a foto da liderança da organização.
+
 
